@@ -50,7 +50,7 @@ python3 main.py
 
 ## Status
 
-Early stage. actively building and improving every day.
+Early stage. actively building and improving regularly.
 
 ## Author
 
